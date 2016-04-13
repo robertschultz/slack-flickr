@@ -5,9 +5,9 @@ Simple Slack service that provides a random photo from Flickr.
 ### Installation
 
 ```
-$ git clone <url>
-cd <app>
-npm Installation
+$ git clone https://github.com/robertschultz/slack-flickr.git
+$ cd slack-flickr
+$ npm install
 ```
 
 ### Usage
