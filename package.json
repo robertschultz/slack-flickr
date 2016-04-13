@@ -1,0 +1,21 @@
+{
+  "name": "slack-flickr",
+  "version": "1.0.0",
+  "description": "Simple Slack service that provides a random photo from Flickr.",
+  "main": "app.js",
+  "scripts": {
+    "eslint": "eslint *.js",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "debug": "^2.2.0",
+    "express": "^4.13.4",
+    "node-flickr": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^2.7.0"
+  }
+}
