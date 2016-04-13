@@ -40,6 +40,3 @@ app.post('/', (req, res) => {
 app.listen(port, () => {
   debug('Slack flickr service listening on port ' + port);
 });
-
-
-//017b9cc756a0d8d46e842e7a76ca238a
